@@ -46,7 +46,7 @@ p{
     top: 300px;
     right: 0;
     text-align: center;
-    background-color: #3c1d3d;
+    background-color: #851944;
     color: #f2fffc;
     height: 200px;
     width: 218.5px;
@@ -56,11 +56,11 @@ p{
     border-left: 10px solid black;
     border-bottom: 10px solid black;
 }
-.redes-sociais.a{
-    text-transform: lowercase;
-    color: inherit;
-    font-family: "Open Sans Condensed", sans-serif;
+a{
+
+    color: white;
 }
+
 .rodape {
     position: absolute;
     left: 0;
